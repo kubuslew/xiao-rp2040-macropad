@@ -8,8 +8,8 @@ Project includes schematic design, PCB layout, component selection and manual as
 Firmware implementation is planned as a next development stage.
 
 <p align="center">
-  <img src="photos/top.jpg" width="45%" />
-  <img src="photos/bottom.jpg" width="45%" />
+  <img src="hardware/top.jpg" width="45%" />
+  <img src="hardware/bottom.jpeg" width="45%" />
 </p>
 
 
