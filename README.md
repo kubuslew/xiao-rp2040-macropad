@@ -7,6 +7,12 @@ Project includes schematic design, PCB layout, component selection and manual as
 
 Firmware implementation is planned as a next development stage.
 
+<p align="center">
+  <img src="photos/top.jpg" width="45%" />
+  <img src="photos/bottom.jpg" width="45%" />
+</p>
+
+
 ## Hardware Specifications
 
 - MCU: Seeed Studio XIAO RP2040
